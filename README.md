@@ -12,13 +12,15 @@ Assuming you have Gatsby installed, open a terminal and execute:
 
     gatsby new lumen https://github.com/fredmontet/fredmontet.com
 
-    # Run the development server on localhost:8000 with
+### Run the development server
 
     gatsby develop
-    
-    # Build in ./public with
+ 
+### Build the website
 
     gatsby build
+
+The content will be in the `./public` directory.
 
 
 Technologies
