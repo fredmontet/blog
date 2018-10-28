@@ -1,13 +1,14 @@
 ---
-title: "About me"
+title: "About"
 layout: page
 path: "/about"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+Media and computer science engineer, what does it mean exactly? After a apprenticeship in mechatronics at [Bobst Group](https://www.bobst.com), I realized that the need of machinery and heavy tools to work was an overhead to my will of simplicity. Solely relying on a computer to be able to work seemed like heaven to my eyes.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+This is why I started to study a Bachelor in _Print and Interactive Media Management_ at [HEIG-VD](https://heig-vd.ch/). Once those studies were over, I worked as a paragliding tandem pilot and tried to relaxed my mind; it didn't happened. The winter was calmly passing by, and I was learning computer science by myself. To me, it was a clear message that the student life wasn't over yet. Hence why I started a Master in _Information and Communication Technologies_ at [HES-SO](https://www.hes-so.ch/). 
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Today, those studies are over. I thought my will to learn would partially vanish but, once again I was wrong; it did increase. Through the articles of this website, I hope that I'll be able to transfer you my deepest passions: flying, computer science and learning.
+
+Frédéric
