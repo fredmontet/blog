@@ -1,6 +1,8 @@
-/** 
+/**
  * Variables
  */
+
+@import url('https://fonts.googleapis.com/css?family=Lora');
 
 // Colors
 $color-base: #222;
@@ -9,11 +11,14 @@ $color-secondary: #f7a046;
 
 $color-white: lighten($color-base, 100%);
 $color-gray: lighten($color-base, 40%);
+$color-gray-accent: darken($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
 
+
 // Typographic
 $typographic-font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$typographic-font-family-serif: "Lora", serif;
 
 $typographic-root-font-size: 100;
 $typographic-base-font-size: 16px;

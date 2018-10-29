@@ -19,6 +19,7 @@
         @include margin-bottom(0);
     }
     &__body {
+        font-family: $typographic-font-family-serif;
         & figure {
             @include margin-bottom(1);
             & blockquote {

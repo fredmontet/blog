@@ -11,6 +11,7 @@
         @include margin-bottom(1.45);
     }
     &__body {
+        font-family: $typographic-font-family-serif;
         font-size: $typographic-base-font-size;
         @include line-height(1);
         @include margin(0, 0, 1);

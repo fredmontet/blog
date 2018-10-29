@@ -11,18 +11,22 @@
             padding: 0;
             margin: 10px 0;
             &-link {
+                &::before{
+                    content: "\00BB ";
+                }
                 font-size: $typographic-base-font-size;
                 color: $typographic-base-font-color;
+                text-transform: lowercase;
                 font-weight: 400;
                 border: 0;
                 &:hover,
                 &:focus {
-                    color: $color-primary;
-                    border-bottom: 1px solid $color-primary;
+                    color: $color-gray-accent;
+                    border-bottom: 2px solid $color-gray-accent;
                 }
                 &--active {
-                    color: $color-base;
-                    border-bottom: 1px solid $color-base;
+                    color: $color-gray;
+                    border-bottom: 2px solid $color-gray;
                 }
             }
         }
