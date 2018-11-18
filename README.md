@@ -10,17 +10,23 @@ Getting Started
 
 Assuming you have Gatsby installed, open a terminal and execute:
 
-    gatsby new lumen https://github.com/fredmontet/fredmontet.com
+    npm install
 
 ### Run the development server
 
     gatsby develop
- 
+
 ### Build the website
 
     gatsby build
 
 The content will be in the `./public` directory.
+
+
+Deploy
+------
+
+To deploy on Netlify, just merge the `develop` branch into `master` and push it.
 
 
 Technologies
