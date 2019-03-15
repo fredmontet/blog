@@ -9,7 +9,6 @@ module.exports = {
       'Some personal views about life ' +
       'and computer science',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
     menu: [
       {
         label: 'Articles',
@@ -18,10 +17,6 @@ module.exports = {
       {
         label: 'About',
         path: '/about/',
-      },
-      {
-        label: 'Contact',
-        path: '/contact/',
       },
     ],
     author: {
