@@ -26,12 +26,11 @@ module.exports = {
     ],
     author: {
       name: 'Frédéric Montet',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
+      email: 'web@fredmontet.com',
+      twitter: 'fredmontet',
+      linkedin: 'fredmontet',
       github: 'fredmontet',
       rss: '#',
-      vk: '#',
     },
   },
   plugins: [
