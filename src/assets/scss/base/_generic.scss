@@ -165,16 +165,16 @@ figcaption {
         float: left;
     }
     .content {
-        lost-column: 7/12;
+        lost-column: 8/12;
         &__inner {
-            padding: 30px 20px;
+            padding: 40px 35px;
         }
     }
 }
 
 @include breakpoint-md {
     .content {
-        lost-column: 2/3;
+        lost-column: 8/12;
         &__inner {
             padding: 40px 35px;
         }
