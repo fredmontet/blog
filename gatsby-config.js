@@ -4,10 +4,9 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://www.fredmontet.com',
-    title: 'fredmontet',
+    title: 'Fred Montet',
     subtitle:
-      'Some personal views about life ' +
-      'and computer science',
+      'Ideas and Computers',
     copyright: '© All rights reserved.',
     menu: [
       {
