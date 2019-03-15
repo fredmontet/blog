@@ -4,8 +4,15 @@
 
 // Colors
 $color-base: #222;
-$color-primary: #5d93ff;
-$color-secondary: #f7a046;
+
+$color-palette-1: #EDAE49;
+$color-palette-2: #D1495B;
+$color-palette-3: #00798C;
+$color-palette-4: #30638E;
+$color-palette-5: #003D5B;
+
+$color-primary: $color-palette-4;
+$color-secondary: $color-palette-5;
 
 $color-white: lighten($color-base, 100%);
 $color-gray: lighten($color-base, 40%);
