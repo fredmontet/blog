@@ -42,11 +42,6 @@ class Links extends React.Component {
               <i className="icon-twitter" />
             </a>
           </li>
-          <li className="links__list-item">
-            <a href={`mailto:${links.email}`}>
-              <i className="icon-mail" />
-            </a>
-          </li>
         </ul>
       </div>
     )
