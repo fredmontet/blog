@@ -25,7 +25,7 @@ Fast forward a beautiful birthday with the people I love, I did collect enough m
 more that **500** trees with an organisation called [onetreeplanted.org](https://www.onetreeplanted.org); 
 let's hope that some people will enjoy their shadow and rest under their branches.
 
-This party was also the official launch of my personal venture called [https://vast.ch](vast.ch). In this 
+This party was also the official launch of my personal venture called [vast.ch](https://vast.ch). In this 
 project, I'd like to make my friends and passions converge to create a range of outdoor services and products
 that doesn't exist on the market yet. Furthermore, because I start this project from zero, I'm making it with 
 a value driven identity where I promote a responsible way to practice outdoor activities safely while taking 
