@@ -5,14 +5,12 @@ layout: post
 draft: false
 path: "/posts/the-vast-launch/"
 category: "Gatsby"
-tags:
+tags:   
   - "birthday"
   - "vast"
   - "trees"
 description: "Many friends, 500 trees, one project."
 ---
-
-# the vast launch
 
 **A week like no other** – Let me contextualize. At the end of last week, on the 28th of September, 
 I did organize an event called Tree for Thirties. As the name suggest, it was about the celebration 
