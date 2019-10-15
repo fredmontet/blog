@@ -4,7 +4,7 @@ date: "2019-10-12T13:37:00.000Z"
 layout: post
 draft: false
 path: "/posts/the-vast-launch/"
-category: "Gatsby"
+category: "vast"
 tags:   
   - "birthday"
   - "vast"
