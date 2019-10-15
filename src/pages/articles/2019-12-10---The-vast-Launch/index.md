@@ -1,5 +1,5 @@
 ---
-title: The vast launch
+title: The Vast Launch
 date: "2019-10-12T13:37:00.000Z"
 layout: post
 draft: false
