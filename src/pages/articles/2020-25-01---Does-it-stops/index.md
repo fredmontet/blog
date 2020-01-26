@@ -2,7 +2,7 @@
 title: Does it stops?
 date: "2019-25-01T13:37:00.000Z"
 layout: post
-draft: true
+draft: false
 path: "/posts/does-it-stops/"
 category: "Personal"
 tags:   
