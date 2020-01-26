@@ -12,6 +12,8 @@ tags:
 description: "The fantasy of Laputa in relation to earth."
 ---
 
+![](./laputa.png)
+
 Yesterday I watched The Castle in the Sky, a film from Hayao Miyazaki produced in 1986. This is his third movie, he was 45 at that time. The scenario is quite interesting as it resonates with many concerns our world has nowadays. One in particular is the relationship between nature and technology.
 
 Seated in a train, cruising to go study in [HEIA-FR](https://www.heia-fr.ch/), I'm looking at the falling rain and my mind gets busy with a few technical questions. The field in front of the window is green with a few clouds caught by its hills. In an instant, a factory appears. The world seems to feel better without the industrial giants... 
