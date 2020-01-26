@@ -1,6 +1,6 @@
 ---
 title: Does it stops?
-date: "2019-25-01T13:37:00.000Z"
+date: "2019-01-25T13:37:00.000Z"
 layout: post
 draft: false
 path: "/posts/does-it-stops/"
