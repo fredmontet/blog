@@ -1,14 +1,15 @@
 ---
-title: The vast launch
-date: "2019-10-12T13:37:00.000Z"
 template: post
+title: The vast launch
+slug: the-vast-launch
 draft: false
-category: "vast"
-tags:   
-  - "birthday"
-  - "vast"
-  - "trees"
-description: "Many friends, 500 trees, one project."
+date: '2019-10-12T13:37:00.000Z'
+description: 'Many friends, 500 trees, one project.'
+category: vast
+tags:
+  - birthday
+  - vast
+  - trees
 ---
 
 **A week like no other** – Let me contextualize. At the end of last week, on the 28th of September, 

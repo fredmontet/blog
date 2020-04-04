@@ -1,15 +1,16 @@
 ---
-title: Does it stop?
-date: "2019-01-25T13:37:00.000Z"
 template: post
+slug: does-it-stop
 draft: false
-category: "Personal"
-tags:   
-  - "laputa"
-  - "wisdom"
-  - "future"
-description: "The fantasy of Laputa in relation to earth."
-socialImage: "/media/laputa.png"
+socialImage: /media/laputa.png
+title: Does it stop?
+date: '2019-01-25T13:37:00.000Z'
+description: The fantasy of Laputa in relation to earth.
+category: Personal
+tags:
+  - laputa
+  - wisdom
+  - future
 ---
 
 ![](/media/laputa.png)
