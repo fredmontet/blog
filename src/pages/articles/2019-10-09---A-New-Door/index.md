@@ -4,7 +4,7 @@ date: "2019-09-10T13:37:00.000Z"
 layout: post
 draft: false
 path: "/posts/a-new-door/"
-category: "Gatsby"
+category: "personal"
 tags:
   - "Start"
   - "PhD"
