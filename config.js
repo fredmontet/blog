@@ -6,7 +6,7 @@ module.exports = {
   title: 'Fred Montet',
   subtitle: 'Ideas and Computers',
   copyright: '© All rights reserved.',
-  disqusShortname: 'fredmontet.com',
+  disqusShortname: 'fredmontet-com',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: true,
