@@ -1,6 +1,8 @@
 ---
-title: "About"
 template: page
+title: About
+slug: about
+draft: false
 ---
 
 
