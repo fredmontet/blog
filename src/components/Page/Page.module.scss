@@ -5,7 +5,7 @@
   @include margin-bottom(2);
 
   &__inner {
-    padding: 25px 20px;
+    padding: 20px;
   }
 
   &__title {
@@ -22,7 +22,6 @@
     @include line-height(1);
     @include margin(0, 0, 1);
   }
-
 }
 
 @include breakpoint-sm {
@@ -30,21 +29,17 @@
     lost-column: 7/12;
 
     &__inner {
-      padding: 30px 20px;
+      padding-left:10px;
     }
-
   }
-
 }
 
 @include breakpoint-md {
   .page {
-    lost-column: 2/3;
+    lost-column: 7/12;
 
     &__inner {
-      padding: 40px 35px;
+      padding: 20px;
     }
-
   }
-
 }
