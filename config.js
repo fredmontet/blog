@@ -16,6 +16,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: "Cō Vidis?",
+      path: 'https://co-vidis.fredmontet.com'
+    },
+    {
       label: 'About',
       path: '/pages/about'
     }
