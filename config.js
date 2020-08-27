@@ -16,6 +16,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: "TimeAtlas",
+      path: 'https://timeatlas.dev'
+    },
+    {
       label: "Cō Vidis?",
       path: 'https://co-vidis.fredmontet.com'
     },
