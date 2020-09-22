@@ -16,6 +16,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: "vast",
+      path: 'https://vast.ch'
+    },
+    {
       label: "TimeAtlas",
       path: 'https://timeatlas.dev'
     },
