@@ -1,24 +1,25 @@
 fredmontet.com
 ==============
 
-Welcome to the repository of my personal blog. The purpose of it is to provide me with an online
-space where I can publish all kind of contents related to my personal activities.
+Welcome to the repository of my personal blog. The purpose of it is to provide me with an online space where I can publish all kind of contents related to my personal activities.
 
 
 Getting Started
 ---------------
 
-Assuming you have Gatsby installed, open a terminal and execute:
+As a prerequisite, install the dependencies with :
 
     yarn
 
+then, check `package.json` for all scripts available.
+
 ### Run the development server
 
-    gatsby develop
+    yarn develop
 
 ### Build the website
 
-    gatsby build
+    yarn build
 
 The content will be in the `./public` directory.
 
