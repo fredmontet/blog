@@ -16,6 +16,10 @@ module.exports = {
       path: '/'
     },
     {
+      label: 'Notes',
+      path: 'https://note.fredmontet.com'
+    },
+    {
       label: "vast",
       path: 'https://vast.ch'
     },
