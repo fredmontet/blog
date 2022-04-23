@@ -1,5 +1,5 @@
-fredmontet.com
-==============
+My personal blog
+================
 
 Welcome to the repository of my personal blog. The purpose of it is to provide me with an online
 space where I can publish all kind of contents related to my personal activities.
